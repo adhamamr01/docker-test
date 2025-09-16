@@ -13,12 +13,6 @@ You’ll learn how to:
 - Expose ports and pass environment variables
 - Use Docker commands to interact with containers
 
-## 📂 Repository Structure
-.
-├── Dockerfile
-├── src/        # Example application code (if any)
-└── README.md
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -63,5 +57,5 @@ Remove an image:
 docker rmi docker-test
 
 ## 📝 License
-This repository is for educational purposes.  
+This repository is for educational purposes and thanks to the efforts of boot.dev's amazing website.
 You are free to use and modify it.
